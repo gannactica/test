@@ -1,0 +1,104 @@
+
+.text{
+    font-weight: bold;
+    font-style: italic;
+
+}
+.header__menu{
+    float: right;
+    margin-right: 100px;
+    margin-top: 47px;
+    font-size: 20px;
+}
+.logo{
+    margin-top: 35px;
+    margin-left: 100px;
+    float: left;
+    margin-bottom: 35px;
+}
+.section{
+    padding: 60px 90px;
+}
+.picture{
+    clear: both;
+}
+.clear{
+    clear: both;
+}
+p{
+    line-height: 20pt;
+}
+.section__block{
+    float: left;
+    font-size: 21px;
+
+}
+.section__block__text{
+    margin-left: 599px;
+
+
+}
+.analytics{
+
+    background: black;
+    color: white;
+    width: 100%;
+    height: 200px;
+    font-size: 21px;
+}
+.analytics__block{
+    float: left;
+    width: 25%;
+}
+.analytics__block__wrap{
+    /*float: left;*/
+    padding-top: 50px;
+    padding-left: 100px;
+    padding-right: 20px;
+    /*width: 25%;*/
+}
+
+.analytics__icon{
+    padding-top: 20px;
+    float: left;
+
+}
+.analytics__text{
+    padding-left: 35px;
+}
+
+
+.body{
+    margin: 0;
+}
+.contact__work{
+    font-weight: bold;
+   text-align: center;
+    margin-top: 68px;
+    margin-bottom: 40px;
+}
+.contact__text{
+    text-align: center;
+    font-size: 20px;
+
+}
+.contact__button{
+    background: black;
+    color: white;
+    padding: 26px 73px;
+    margin:auto;
+    margin-top: 40px;
+    margin-bottom: 60px;
+    border: none;
+    display: block;
+    font-size: 20px;
+}
+.footer{
+    background: grey;
+    padding: 30px;
+    text-align: center;
+
+
+}
+
+

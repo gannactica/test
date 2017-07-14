@@ -1,0 +1,27 @@
+code{
+    background:#dc6d1b ;
+    /*фоооон!!!!*/
+    border-radius: 10px;
+    color: #141711;
+    /*ЦВЕТ ТЕКСТА*/
+    display: block;
+    size: 14px;
+    padding: 24px 16px;
+    /*поле элемента*/
+
+    text-align: center;
+
+}
+header,
+section,
+aside,
+footer{
+    margin: 0 1.5% 24px 1.5%;
+}
+/*Отступ за границей элемента, расстояние между элементами*/
+
+section{
+    display: inline-block;
+    width: 30%;
+
+}

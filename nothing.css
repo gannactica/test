@@ -1,0 +1,49 @@
+p {
+    color:#141711 ;
+}
+
+#tagline {
+    color: darkgreen;
+}
+
+body {
+    color: darkcyan
+}
+
+img {
+    max-width: 1000px;
+}
+p {
+    background: red;
+}
+p{
+    background:#1d2318;
+
+}
+body{
+    background:#6c77b5;
+
+}
+p{
+    background: rgba(18, 224, 224, .5);
+
+}
+
+body{
+    font-size: 14px;
+    width: 65%;
+}
+p { display: block;
+    border: 36px double #3a6e75 ;
+
+
+   border-radius: 30% 70% 25% 99%;
+    padding: 34px 25px 35px 99px;
+    margin: 25px 25% 23% 43%;
+    height: 25px;
+    width: 20px;
+    box-sizing: border-box;
+}
+img{
+    float: left;
+}

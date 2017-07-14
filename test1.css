@@ -1,0 +1,27 @@
+
+.container{
+    width: 500px;
+
+    margin: 0 auto;
+    position: relative;
+}
+.header{
+    padding: 5px;
+    background: #2db34a;
+    font-size: 24pt; /* Размер текста */
+    font-weight: bold; /* Жирное начертание */
+    color: #edeed5; /* Цвет текста */
+}
+.content{
+    margin-right: 130px;
+    background: #e296d4;
+    padding: 10px;
+    border-right: 1px dashed blueviolet;
+
+}
+.sidebar{
+    position: absolute;
+    right: 0;
+    top: 60px;
+    width: 120px;
+}
